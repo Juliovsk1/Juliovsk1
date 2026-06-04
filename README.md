@@ -1,9 +1,8 @@
 <h1 align="center">Olá! Meu nome é Júlio César. Seja bem-vindo ao meu perfil do Github 👋.</h1> 
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Developer</h3>
 
-
-👨‍💻 Sou formando em Ánalise e Desenvolvimento de Sistemas como Tecnólogo, me dedico  em construir soluções que equilibrem desempenho, design e usabilidade.
-
+<h2>Formações Acadêmicas</h2>
+<list> Teste</list>
 🖥️ Tenho experiência em tecnologias Front-end, utilizando HTML, CSS e JavaScript, bibliotecas como TypeScript e React, e frameworks como NextJs para desenvolver aplicativos web e sites.
 
 ✅ Meu foco é sempre buscar aprimorar minhas habilidades por meio dos estudos e entregar sempre os melhores serviços por meio da comunicação clara e objetiva. 
@@ -11,12 +10,6 @@
 <div align="center">
 
   ![Design sem nome (1)](https://github.com/user-attachments/assets/38a04f06-6a90-4588-89e0-fa65ef74f464)
-</div>
-<h2 align="left">Github Stats 🧮</h2> 
-
-<div>
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Juliovsk1&show_icons=true&theme=tokyonight"/> <br>
-  <img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliovsk1&layout=pie&theme=tokyonight"/>
 </div>
 
 ##
