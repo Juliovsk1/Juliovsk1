@@ -1,16 +1,51 @@
-<h1 align="center">Olá! Meu nome é Júlio César. Seja bem-vindo ao meu perfil do Github 👋.</h1> 
-<h3 align="center">Developer</h3>
+<h1 align="center">Olá! Meu nome é Júlio César. Seja bem-vindo ao meu perfil do Github 👋. 
+	<div align="center" width="10">
+		
+  ![Design sem nome (1)](https://github.com/user-attachments/assets/38a04f06-6a90-4588-89e0-fa65ef74f464)
+</div></h1> 
+<h3 align="center">Fullstack em aprendizado</h3>
 
 <h2>Formações Acadêmicas</h2>
-Tecólogo Análise e Desenvolvimento de Sistemas - FAMETRO   <img align="center" height="50" width="60" src="/home/juliosampaio/Downloads/fametro-logo.png"/>
+<table>
+  <tr>
+    <td width="90" align="center">
+      <img src="./Images/fametro-logo.png" width="80" alt="Fametro">
+    </td>
+    <td>
+      <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas - Fametro</strong><br>
+      Fev/2023 - Cursando
+    </td>
+  </tr>
 
-Fev/2023 - Cursando
-Bacharelado em Ciência da COmputação - IFAM
-Ago/2026 - Cursando
+  <tr>
+    <td width="90" align="center">
+      <img src="./Images/500px-Instituto_Federal_do_Amazonas_transparente.png" width="80" alt="IFAM">
+    </td>
+    <td>
+      <strong>Bacharelado em Ciência da Computação - IFAM</strong><br>
+      Ago/2026 - Cursando
+    </td>
+  </tr>
+</table>
 
-🖥️ Tenho experiência em tecnologias Front-end, utilizando HTML, CSS e JavaScript, bibliotecas como TypeScript e React, e frameworks como NextJs para desenvolver aplicativos web e sites.
+## 🖥️ Sobre mim
 
-✅ Meu foco é sempre buscar aprimorar minhas habilidades por meio dos estudos e entregar sempre os melhores serviços por meio da comunicação clara e objetiva. 
+Desenvolvedor com interesse em criar soluções eficientes e bem estruturadas. Minha experiência começou no Frontend, mas atualmente estou direcionando meus estudos para o ecossistema Backend, buscando compreender desde a construção de APIs até a arquitetura de aplicações escaláveis.
+
+### Tecnologias
+
+- 🌐 HTML, CSS e JavaScript
+- 🐍 Python
+- ⚙️ C/C++
+- 🟢 Node.js
+
+### 📚 Atualmente estudando
+
+- Desenvolvimento Backend
+- APIs REST e gRPC
+- Bancos de Dados
+- Arquitetura de Software
+- Boas práticas de Engenharia de Software
 
 <div align="center">
 
