@@ -2,7 +2,12 @@
 <h3 align="center">Developer</h3>
 
 <h2>Formações Acadêmicas</h2>
-<list> Teste</list>
+Tecólogo Análise e Desenvolvimento de Sistemas - FAMETRO   <img align="center" height="50" width="60" src="/home/juliosampaio/Downloads/fametro-logo.png"/>
+
+Fev/2023 - Cursando
+Bacharelado em Ciência da COmputação - IFAM
+Ago/2026 - Cursando
+
 🖥️ Tenho experiência em tecnologias Front-end, utilizando HTML, CSS e JavaScript, bibliotecas como TypeScript e React, e frameworks como NextJs para desenvolver aplicativos web e sites.
 
 ✅ Meu foco é sempre buscar aprimorar minhas habilidades por meio dos estudos e entregar sempre os melhores serviços por meio da comunicação clara e objetiva. 
