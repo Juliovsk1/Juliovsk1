@@ -1,7 +1,9 @@
 <h1 align="center">Olá! Meu nome é Júlio César. Seja bem-vindo ao meu perfil do Github 👋. 
 	<div align="center" width="10">
 		
-  ![Design sem nome (1)](https://github.com/user-attachments/assets/38a04f06-6a90-4588-89e0-fa65ef74f464)
+<p align="center">
+  <img src="https://i.imgur.com/wj8HNGQ.gif" width="200">
+</p>  
 </div></h1> 
 <h3 align="center">Fullstack em aprendizado</h3>
 
